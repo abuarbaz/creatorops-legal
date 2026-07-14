@@ -13,4 +13,4 @@ These documents are used for Meta (Facebook/Instagram) Developer Platform requir
 
 For questions or data deletion requests, please contact:
 
-arbazmohammed17@gmail.com
+learnwithdevopsengineer3682@gmail.com
